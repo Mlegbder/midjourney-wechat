@@ -1,0 +1,31 @@
+# MJ_API接口地址
+api_url: http://127.0.0.1:8080/mj
+# 已弃用无需修改
+api_key: xxx
+# 已弃用无需修改
+check_url: http://xxx.xxxx.cn
+# 下载discord图片的代理配置，非全局
+proxy:
+  # 是否开启代理 开启true 关闭false
+  use_proxy: false
+  # 代理地址 只有开启时生效
+  proxy_url: "http://127.0.0.1:7890"
+#发信邮件配置，请修改为你的邮箱
+smtp:
+  host: smtp.qq.com
+  port: 587
+  username: xxxx@qq.com
+  password: xxxx
+# 掉线通知收件邮箱配置
+mail:
+  sender: xxxx@gmail.com
+  # 收件邮箱，可填写多个，多了可能会进垃圾箱
+  to:
+    - xxx@xx.com
+  subject: MJBOT机器人需要登陆提醒
+  body:
+    请扫描下方二维码进行登陆
+Mysql:
+  Dsn: xxx:xxx@tcp(175.178.74.2:3306)/wechat-bot?charset=utf8mb4&parseTime=True&loc=Africa%2FLagos
+  MaxIdleConn: 50
+  MaxOpenConn: 100
