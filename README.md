@@ -26,13 +26,12 @@
 #### 如果无需充值功能的,屏蔽mysql初始化代码即可
  
 #### 功能截图
-![1](https://github.com/Mlegbder/midjourney-wechat/assets/28382910/bb6a19f5-24bc-4cfc-851a-e5af7dfc72d7)
-![2](https://github.com/Mlegbder/midjourney-wechat/assets/28382910/80b8bbb1-512c-45da-bca6-29609dd5e0d0)
-![3](https://github.com/Mlegbder/midjourney-wechat/assets/28382910/9962cc74-622c-4b7a-b397-9c78e8f10c8a)
-![4](https://github.com/Mlegbder/midjourney-wechat/assets/28382910/371ffdd4-032e-4f0c-9c56-af7044aeca5b)
-![5](https://github.com/Mlegbder/midjourney-wechat/assets/28382910/c7e74981-a90b-4acf-9a4d-938a20d87dac)
-![6](https://github.com/Mlegbder/midjourney-wechat/assets/28382910/656f90b5-eb7d-49e4-8443-0fa54f90f5a9)
-![7](https://github.com/Mlegbder/midjourney-wechat/assets/28382910/536f6174-9455-4ed6-b83c-aaec660af46b)
+![1](https://github.com/Mlegbder/midjourney-wechat/assets/28382910/6f3a41f8-9304-4f9d-93c9-d974dfd2f1c8)
+![3](https://github.com/Mlegbder/midjourney-wechat/assets/28382910/66a13b61-da9f-4559-bbc9-cfd092178c44)
+![5](https://github.com/Mlegbder/midjourney-wechat/assets/28382910/2f1f2827-30fa-4401-a096-45421966e66f)
+![6](https://github.com/Mlegbder/midjourney-wechat/assets/28382910/035b08c8-f831-49c5-b327-9c20809dcd03)
+![7](https://github.com/Mlegbder/midjourney-wechat/assets/28382910/7c469e76-13ef-42b3-a9d6-d16399b95ff3)
+
 
 #### 添加作者
-![WechatIMG529](https://github.com/Mlegbder/midjourney-wechat/assets/28382910/84031f9e-5b25-4898-89e4-4f030ba1f443)
+![WechatIMG529](https://github.com/Mlegbder/midjourney-wechat/assets/28382910/d636bb09-65c1-450c-9873-7f239fd45f9d)
