@@ -23,7 +23,7 @@
 - /describe [图片链接]
 - /blend [图片链接] [图片链接]
 
-#### 如果无需充值功能的,屏蔽到mysql初始化代码即可
+#### 如果无需充值功能的,屏蔽mysql初始化代码即可
  
 #### 功能截图
 ![1](https://github.com/Mlegbder/midjourney-wechat/assets/28382910/bb6a19f5-24bc-4cfc-851a-e5af7dfc72d7)
